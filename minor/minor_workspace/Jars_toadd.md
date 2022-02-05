@@ -1,2 +1,0 @@
-* Stanford Parser
-* Apache commons
